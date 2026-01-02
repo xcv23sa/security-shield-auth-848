@@ -1,0 +1,1 @@
+const service_dkgf = <T>(args: T): T => { return args; };
