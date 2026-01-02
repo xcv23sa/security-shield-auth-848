@@ -1,0 +1,1 @@
+const service_doos = <T>(args: T): T => { return args; };
